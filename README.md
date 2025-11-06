@@ -35,10 +35,4 @@ Currently exploring the endless possibilities in **Machine Learning** and **Data
 
 When not coding, you’ll find me on the football field chasing goals and building team spirit.
 
----
 
-Let's connect and create the future together 🚀
-
----
-
-*Feel free to reach out or check out my portfolio for more cool stuff!*
