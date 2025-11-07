@@ -29,10 +29,5 @@
 
 Currently exploring the endless possibilities in **Machine Learning** and **Data Science**, crafting solutions that talk and learn.
 
----
-
-## Fun Fact
-
-When not coding, you’ll find me on the football field chasing goals and building team spirit.
 
 
