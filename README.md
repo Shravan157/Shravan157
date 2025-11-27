@@ -1,81 +1,85 @@
-<div align="center">
-  
-# 💀 SHRAVAN PARTHE
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=100&lines=Java+%26+Spring+Developer;Generative+AI;Learning+Data+Science+and+Machine+Learning;Building+Scalable+Backends" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shravan-parthe) &nbsp; [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shravanparthe@gmail.com)
-
-</div>
-
----
+<!--  ================================
+     ⚡ CYBERPUNK / HACKER THEME README
+     ================================ -->
 
 <div align="center">
 
-## ⚡ ABOUT ME
-
-</div>
-
-<p align="center">
-<i>"Bridging the gap between robust Enterprise Backends and Intelligent Data."</i>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=Java+%26+Spring+Developer;Generative+AI+Explorer;Machine+Learning+Apprentice;Backend+Engineer+in+Progress;CSE+AIML+Student" />
 
 <br/>
 
-<div align="center">
-
-👋 I am a **CSE AIML Student** with a passion for building scalable systems. My sweet spot lies at the intersection of **Data Science** and **Full Stack Development**.
-
-🚀 **Currently:** Mastering Machine Learning & Data Science concepts.  
-☕ **Core Strength:** Java Ecosystem (Spring Boot) & Python.  
-🛠 **Experience:** Worked with JWT, MySQL, React, and AWS.
+[![LinkedIn](https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shravan-parthe)
+[![Mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shravanparthe@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-
-## 💻 THE ARSENAL
+  
+### ⚡ **ABOUT ME**  
+### ——————— ◦ 𓆩⚙️𓆪 ◦ ———————  
+<i>"Bridging the gap between robust Enterprise Backends and Intelligent Data."</i>
 
 </div>
 
-<table align="center">
+🔹 **CSE AIML Student** passionate about backend engineering + real-world data.  
+🔹 Strong in **Java/Spring Boot + Python + Machine Learning**.  
+🔹 Hands-on with **JWT, MySQL, React, AWS**.  
+🔹 Exploring how traditional systems merge with **modern AI pipelines**.
+
+---
+
+<div align="center">
+  
+## 🛠️ TECH ARSENAL  
+### ——————— ◦ 𓆩⚔️𓆪 ◦ ———————  
+
+</div>
+
+<table>
 <tr>
-<td align="center" width="50%">
+<td>
 
-### ☕ CORE & BACKEND
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-</td>
-<td align="center" width="50%">
-
-### 🤖 DATA & AI
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### ☕ Core & Backend  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=Hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
 </tr>
-<tr>
-<td align="center" width="50%">
 
-### 🌐 FRONTEND
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<tr>
+<td>
+
+### 🤖 Data & AI  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 </td>
-<td align="center" width="50%">
+</tr>
 
-### 🌩️ DEVOPS & TOOLS
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<tr>
+<td>
+
+### 🌐 Frontend  
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### 🌩️ DevOps & Tools  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 </td>
 </tr>
@@ -84,15 +88,21 @@
 ---
 
 <div align="center">
+  
+## 📊 GITHUB INTEL  
+### ——————— ◦ 𓆩🛰️𓆪 ◦ ———————  
 
-## 📊 GITHUB STATS
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shravan157&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan157&theme=radical&hide_border=true&layout=compact" height="170" alt="languages graph" />
+<div align="center">
 
-<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shravan157&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160" />
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Shravan157&theme=radical&hide_border=true" alt="streak stats" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan157&theme=tokyonight&hide_border=true&layout=compact" height="160" />
+
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=Shravan157&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
 
@@ -100,10 +110,7 @@
 
 <div align="center">
 
-**⚡ Powered by caffeine and chaos ⚡**
+### ⚡ *"Keep building. Keep breaking. Keep learning."*  
+### —————————————— ◦ 🔥 ◦ ——————————————
 
 </div>
-
-<!-- <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Shravan157&icon=0&color=2" />
-</div> -->
