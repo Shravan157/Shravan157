@@ -26,7 +26,7 @@
       🛠 <b>Experience:</b> Worked with JWT, MySQL, React, and AWS.
     </td>
     <td width="40%" align="center">
-      <img src="YOUR_IMAGE_LINK_HERE" alt="Shravan" width="250px" style="border-radius: 50%;" /> 
+      <!-- <img src="YOUR_IMAGE_LINK_HERE" alt="Shravan" width="250px" style="border-radius: 50%;" />  -->
     </td>
   </tr>
 </table>
