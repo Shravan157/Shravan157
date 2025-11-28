@@ -23,9 +23,9 @@
 ```java
 Developer dev = new Developer() {
     String name = "Shravan Parthe";
+    String email = "shravanparthe@gmail.com"
     String focus = "Backend Engineering + AI";
     String[] currentlyLearning = {"Machine Learning", "Data Science", "GenAI"};
-    String motto = "Clean Code. Smart Solutions.";
 };
 ```
 
