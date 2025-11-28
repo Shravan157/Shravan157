@@ -63,7 +63,7 @@ Developer dev = new Developer() {
 
 <br clear="both">
 
-<img align="left" alt="Frontend Animation" width="380" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/java-logo-animation-gif-download-12875022.mp4">
+<img align="left" alt="Frontend Animation" width="280" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
 
 ### **Frontend**
 
