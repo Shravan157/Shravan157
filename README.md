@@ -67,7 +67,7 @@ Developer dev = new Developer() {
 
 ### **Frontend**
 
-<p align="left">
+<p align="right">
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
 </p>
 
