@@ -74,7 +74,7 @@ Developer dev = new Developer() {
 ### **DevOps & Cloud**
 
 <p align="right">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github&theme=dark" />
 </p>
 
 ### **Tools & IDEs**
