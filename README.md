@@ -32,7 +32,7 @@ I am a **CSE AIML Student**.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> TECH STACK
 
-<img align="right" alt="Tech" width="380" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+<img align="right" alt="Tech" width="380" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
 ### **Languages**
 
@@ -87,21 +87,6 @@ I am a **CSE AIML Student**.
 <br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Shravan157&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophy" width="100%"/>
-
-<br><br>
-
-<table>
-<tr>
-<td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=Shravan157&show_icons=true&theme=radical&hide_border=false&count_private=true&include_all_commits=true&border_radius=15" alt="GitHub Stats" />
-</td>
-<td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravan157&theme=radical&hide_border=false&border_radius=15" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan157&theme=radical&hide_border=false&layout=compact&border_radius=15&langs_count=8" alt="Top Languages" width="45%"/>
 
 <br><br>
 
