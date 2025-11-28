@@ -103,7 +103,7 @@ Developer dev = new Developer() {
 <tr>
 <td width="50%" align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Shravan157&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=F75C7E&icon_color=F75C7E&text_color=ffffff" alt="GitHub Stats" />
+
   
 </td>
 <td width="50%" align="center">
