@@ -23,7 +23,7 @@
 ```java
 Developer dev = new Developer() {
     String name = "Shravan Parthe";
-    String email = "shravanparthe@gmail.com"
+    String course = "TE CSE(AIML)"
     String focus = "Backend Engineering + AI";
     String[] currentlyLearning = {"Machine Learning", "Data Science", "GenAI"};
 };
