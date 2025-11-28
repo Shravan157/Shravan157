@@ -1,75 +1,116 @@
 <div align="center">
 
-# SHRAVAN PARTHE
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=header&text=💀%20SHRAVAN%20PARTHE&fontSize=40&fontColor=fff&animation=twinkling" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6B7280&center=true&vCenter=true&width=600&height=60&lines=Java+%26+Spring+Developer;Generative+AI;Learning+Data+Science+and+Machine+Learning;Building+Scalable+Backends" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=600&height=60&lines=Java+%26+Spring+Developer;Generative+AI;Learning+Data+Science+and+Machine+Learning;Building+Scalable+Backends" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravan-parthe-00946b2ab/) 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shravanparthe@gmail.com)
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravan-parthe-00946b2ab/) 
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shravanparthe@gmail.com)
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║                    🎯 ABOUT ME                               ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
-<br>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 📍 About Me
+> **Bridging the gap between robust Enterprise Backends and Intelligent Data.**
 
-> Bridging the gap between robust Enterprise Backends and Intelligent Data.
+<div align="left">
 
-I am a **CSE AIML Student**.
+```yaml
+role: CSE AIML Student
+status: 🚀 Mastering Machine Learning & Data Science
+core_strength: ☕ Java Ecosystem (Spring Boot) & Python
+experience: 🛠 JWT • MySQL • React • AWS
+```
 
-🚀 Currently mastering Machine Learning & Data Science concepts  
-☕ Core strength in Java Ecosystem (Spring Boot) & Python  
-🛠 Experience with JWT, MySQL, React, and AWS
+</div>
 
-<br>
-
-## 🛠 Tech Stack
-
-**Backend & Core**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-
-**Data & AI**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-
-**Frontend**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**DevOps & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-
-<br>
-
-## 📊 GitHub Stats
+<br clear="both">
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shravan157&theme=default&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=1f2937&text_color=374151&icon_color=6b7280" height="165" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan157&theme=default&hide_border=true&layout=compact&bg_color=ffffff&title_color=1f2937&text_color=374151" height="165" alt="languages graph" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║                    💻 THE ARSENAL                            ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<img align="right" alt="Tech" width="350" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+
+### ⚡ BACKEND POWERHOUSE
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql&theme=dark" />
+</p>
+
+### 🧠 AI & DATA SCIENCE
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,jupyter,tensorflow,pytorch&theme=dark" />
+</p>
+
+<br clear="both">
+
+<img align="left" alt="Frontend" width="350" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
+
+### 🎨 FRONTEND CRAFT
+
+<p align="right">
+<img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind&theme=dark" />
+</p>
+
+### ☁️ CLOUD & DEVOPS
+
+<p align="right">
+<img src="https://skillicons.dev/icons?i=aws,graphql,postman,git,docker&theme=dark" />
+</p>
+
+<br clear="both">
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+```ascii
+╔═══════════════════════════════════════════════════════════════╗
+║                    📊 GITHUB STATS                           ║
+╚═══════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shravan157&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41" height="180" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan157&theme=chartreuse-dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=ffffff" height="180" alt="languages graph" />
 
 <br><br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Shravan157&theme=default&hide_border=true&background=ffffff&ring=6b7280&fire=6b7280&currStreakLabel=1f2937&sideLabels=1f2937&currStreakNum=1f2937&sideNums=1f2937&dates=374151" alt="streak stats" width="500"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Shravan157&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="streak stats" width="600"/>
 
-</div>
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shravan157&custom_title=Contribution%20Graph&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="contribution graph" width="100%"/>
 
 <br>
 
-<div align="center">
+```ascii
+⚡ POWERED BY CAFFEINE AND CHAOS ⚡
+```
 
-⚡ Powered by caffeine and chaos ⚡
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=100&section=footer" width="100%"/>
 
 </div>
