@@ -44,7 +44,7 @@ Developer dev = new Developer() {
 ### **Languages**
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,typescript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark" />
 </p>
 
 ### **Backend & Frameworks**
