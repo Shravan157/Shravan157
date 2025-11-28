@@ -92,22 +92,48 @@ experience: 🛠 JWT • MySQL • React • AWS
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shravan157&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=00ff41" height="180" alt="stats graph" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan157&theme=chartreuse-dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=00ff41&text_color=ffffff" height="180" alt="languages graph" />
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Shravan157&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" width="100%"/>
 
 <br><br>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Shravan157&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="streak stats" width="600"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shravan157&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan157&theme=radical&hide_border=true&layout=compact" height="180" alt="languages graph" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shravan157&custom_title=Contribution%20Graph&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" alt="contribution graph" width="100%"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Shravan157&theme=radical&hide_border=true" alt="streak stats" width="600"/>
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shravan157&custom_title=Contribution%20Graph&theme=github-compact&hide_border=true" alt="contribution graph" width="100%"/>
+
+<br><br>
+
+<details>
+<summary>💥 Click to see more stats</summary>
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shravan157&theme=radical" alt="profile details" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shravan157&theme=radical" alt="repos per language" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shravan157&theme=radical" alt="most commit language" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shravan157&theme=radical" alt="stats" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shravan157&theme=radical" alt="productive time" width="48%"/>
+
+</details>
 
 <br>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
 ```ascii
 ⚡ POWERED BY CAFFEINE AND CHAOS ⚡
 ```
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
