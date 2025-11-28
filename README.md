@@ -24,7 +24,7 @@
 
 <div align="center">
 
-👋 I am a **CSE AIML Student** with a passion for building scalable systems. My sweet spot lies at the intersection of **Data Science** and **Full Stack Development**.
+ I am a **CSE AIML Student**.
 
 🚀 **Currently:** Mastering Machine Learning & Data Science concepts.  
 ☕ **Core Strength:** Java Ecosystem (Spring Boot) & Python.  
