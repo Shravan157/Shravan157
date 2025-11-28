@@ -63,11 +63,11 @@ Developer dev = new Developer() {
 
 <br clear="both">
 
-<img align="left" alt="Frontend Animation" width="280" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif">
+<!-- <img align="left" alt="Frontend Animation" width="280" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif"> -->
 
 ### **Frontend**
 
-<p align="right">
+<p align="left">
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
 </p>
 
