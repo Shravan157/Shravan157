@@ -108,7 +108,7 @@ Developer dev = new Developer() {
 </td>
 <td width="50%" align="center">
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravan157&theme=tokyonight&hide_border=true&background=0d1117&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
+  
   
 </td>
 </tr>
@@ -116,7 +116,7 @@ Developer dev = new Developer() {
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan157&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=F75C7E&text_color=ffffff&langs_count=8" alt="Top Languages" width="45%"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan157&theme=tokyonight&hide_border=true&layout=compact&bg_color=0d1117&title_color=F75C7E&text_color=ffffff&langs_count=8" alt="Top Languages" width="45%"/> -->
 
 <br><br>
 
