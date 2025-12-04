@@ -172,7 +172,7 @@ const shravan = {
 <br><br>
 
 <!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Shravan157&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shravan157&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Trophy" />
 
 <br><br>
 
@@ -187,92 +187,9 @@ const shravan = {
 
 <br>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40" /> Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40" /> Current Learning Journey
 
 <div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏗️ Spring Boot Microservices
-**Enterprise-grade microservices architecture**
-- Service Discovery with Eureka
-- API Gateway with Spring Cloud Gateway
-- Circuit Breaker Pattern
-- Distributed Tracing
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-<td width="50%">
-
-### 🤖 AI-Powered Chatbot
-**Intelligent conversational AI using GPT**
-- Spring AI Integration
-- Vector Database (Pinecone)
-- RAG Implementation
-- Real-time Responses
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📊 ML Model Deployment
-**End-to-end ML pipeline**
-- Model Training with TensorFlow
-- REST API with Flask
-- Docker Containerization
-- AWS Deployment
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-<td width="50%">
-
-### 🔐 OAuth2 Auth Service
-**Secure authentication microservice**
-- JWT Token Management
-- Role-Based Access Control
-- Refresh Token Rotation
-- Redis Session Store
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40"> Current Learning Journey
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Backend Mastery] --> B[Microservices]
-    A --> C[Spring Boot]
-    B --> D[Docker & K8s]
-    C --> E[Spring AI]
-    E --> F[Generative AI]
-    F --> G[LLM Integration]
-    G --> H[Production AI Apps]
-    
-    style A fill:#667eea
-    style F fill:#f093fb
-    style H fill:#64ffda
-```
 
 <br>
 
@@ -328,20 +245,6 @@ graph LR
   <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br><br>
-
-<!-- Quote of the Day -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-<br><br>
-
-<!-- Support Section -->
-<h3>☕ Support My Work</h3>
-<p>If you find my projects helpful, consider buying me a coffee!</p>
-<a href="https://www.buymeacoffee.com/shravan157">
-  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
-
 </div>
 
 <br>
@@ -352,15 +255,7 @@ graph LR
 
 <div align="center">
 
-### 📈 **Contribution Snake** 🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shravan157/Shravan157/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shravan157/Shravan157/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shravan157/Shravan157/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br><br>
+<br>
 
 <!-- Footer -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
@@ -368,8 +263,6 @@ graph LR
 <br>
 
 **⭐️ From [Shravan157](https://github.com/Shravan157) with 💜**
-
-<sub>*"First, solve the problem. Then, write the code." - John Johnson*</sub>
 
 <br><br>
 
