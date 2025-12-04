@@ -113,7 +113,7 @@ I'm actively seeking **internship opportunities** in backend development, full-s
 📧 **Email:** shravanparthe@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/shravan-parthe-00946b2ab](https://www.linkedin.com/in/shravan-parthe-00946b2ab/)  
 🐙 **GitHub:** [github.com/Shravan157](https://github.com/Shravan157)  
-📱 **Phone:** +91 7385 813010
+
 
 ---
 
