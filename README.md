@@ -42,7 +42,6 @@ const shravan = {
 💼 Focused on **Java, Spring Boot, and Backend Development**  
 🚀 Building secure, scalable systems with modern frameworks  
 🤖 Integrating **Generative AI** into web applications  
-📚 Continuously learning **Cloud Computing, Microservices, and DevOps**
 
 ---
 
