@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Shravan157&style=flat-square&color=667eea" alt="Profile Views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=Shravan157&style=flat-square&color=667eea" alt="Profile Views"/> -->
 
 </div>
 
@@ -96,22 +96,6 @@ const shravan = {
 - Implemented secure user authentication and authorization
 - Integrated Redis Vector Database for storing embeddings and AI search
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shravan157&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=667eea&text_color=FFF" alt="GitHub Stats" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shravan157&theme=radical&hide_border=true&background=0D1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=FFF" alt="GitHub Streak" width="48%"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shravan157&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=FFF" alt="Top Languages" width="48%"/>
-
-</div>
-
----
 
 ## 🎯 Current Focus
 
