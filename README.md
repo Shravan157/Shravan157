@@ -23,8 +23,8 @@
 
 ```javascript
 const shravan = {
-    education: "TE CSE (AIML) at Vishwaniketan Institute of Engineering",
-    location: "Mumbai, Maharashtra, India",
+    education: "TE CSE (AIML)",
+    location: "Earth",
     graduation: "June 2027",
     
     focus: [
