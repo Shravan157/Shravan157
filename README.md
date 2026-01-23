@@ -13,7 +13,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F0E68C&center=true&vCenter=true&width=600&lines=I+am+Vengeance;I+am+the+Night;I+am+Innovation;Where+Darkness+Meets+Code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F0E68C&center=true&vCenter=true&width=600&lines=I+am+Vengeance" alt="Typing SVG" />
 
 </div>
 
