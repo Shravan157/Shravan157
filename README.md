@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Shravan%20Parthe&fontSize=60&fontColor=f0e68c&animation=fadeIn&fontAlignY=38&desc=The%20Dark%20Code%20Knight&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Shravan%20Parthe&fontSize=60&fontColor=f0e68c&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-<h3>🦇 Computer Engineering Student | Java & Spring Boot Developer 🦇</h3>
-<h4>⚡ Building Scalable Backend Systems & AI-Powered Applications ⚡</h4>
+<img src="https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1200&h=300&fit=crop" alt="Gotham Cityscape" width="100%"/>
+
+<h3>Computer Engineering Student | Java & Spring Boot Developer</h3>
+<h4>Building Scalable Backend Systems & AI-Powered Applications</h4>
 
 <br>
 
@@ -13,33 +15,22 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F0E68C&center=true&vCenter=true&width=600&lines=Welcome+to+Gotham's+Code+Cave;Where+Darkness+Meets+Innovation;Justice+Through+Technology;The+Night+Is+Darkest+Before+The+Deploy" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F0E68C&center=true&vCenter=true&width=600&lines=I+am+Vengeance;I+am+the+Night;I+am+Innovation" alt="Typing SVG" />
 
 </div>
 
 ---
 
-```
-🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃
-        _______________            GOTHAM CITY - CODE DIVISION
-       /               \           ━━━━━━━━━━━━━━━━━━━━━━━━━
-      /   🦇  GCPD  🦇  \          Status: Protecting Code
-     |   BATMAN SIGNAL   |         Threat Level: Secure
-      \   ACTIVATED ⚡   /          Villains: 0 Detected
-       \_______________ /           ━━━━━━━━━━━━━━━━━━━━━━━━━
-            |     |
-    🏢🏢🏢🏢🏢🏢🏢🏢🏢   WAYNE TOWER   🏢🏢🏢🏢🏢🏢🏢🏢🏢
-🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃🌃
-```
+<div align="center">
+<img src="https://images.unsplash.com/photo-1514565131-fce0801e5785?w=800&h=200&fit=crop" alt="Dark City Streets" width="100%"/>
+</div>
 
-## 🌃 About The Dark Knight Developer
+## 👨‍💻 About Me
 
 ```javascript
 const shravan = {
-    alias: "The Dark Code Knight",
     education: "TE CSE (AIML)",
-    location: "Gotham City 🌆",
-    headquarters: "Wayne Tower - Tech Division",
+    location: "Earth",
     graduation: "June 2027",
     
     focus: [
@@ -49,8 +40,7 @@ const shravan = {
         "Cloud-Native Applications"
     ],
     
-    allies: ["Alfred (Copilot)", "Oracle (Stack Overflow)", "Robin (Junior Devs)"],
-    motto: "It's not who I am underneath, but what I code that defines me",
+    philosophy: "I am vengeance, I am innovation",
     status: "Seeking Internship Opportunities"
 };
 ```
@@ -60,102 +50,75 @@ const shravan = {
 🚀 Building secure, scalable systems with modern frameworks  
 🤖 Integrating **Generative AI** into web applications  
 
-> *"I am vengeance, I am the night, I am... a Backend Developer!"*
+> *"The night is darkest just before the dawn. And I promise you, the dawn is coming."*
 
 ---
 
-## 🃏 Rogues Gallery - Defeated Challenges
+<div align="center">
+<img src="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1200&h=250&fit=crop" alt="City Lights" width="100%"/>
+</div>
 
-### 🤡 **The Joker - Chaos in Production**
-*Challenge:* Random bugs causing production chaos  
-*Solution:* Implemented comprehensive testing & error handling  
-*Status:* ✅ **NEUTRALIZED**
+## 🛠️ Technical Skills
 
-### 🐱 **Catwoman - Data Theft Protection**
-*Challenge:* Securing sensitive user data  
-*Solution:* JWT Authentication & Spring Security implementation  
-*Status:* ✅ **VAULT SECURED**
-
-### ❄️ **Mr. Freeze - Frozen Deployments**
-*Challenge:* System freezes during high traffic  
-*Solution:* Redis caching & performance optimization  
-*Status:* ✅ **SYSTEM THAWED**
-
-### 🎭 **Two-Face - API Inconsistency**
-*Challenge:* Unreliable API responses  
-*Solution:* RESTful standards & proper error handling  
-*Status:* ✅ **CONSISTENCY RESTORED**
-
----
-
-## 🛠️ The Batcave Arsenal
-
-### **Primary Weapons**  
+**Languages**  
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=f0e68c)
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=f0e68c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-16213e?style=for-the-badge&logo=javascript&logoColor=f0e68c)
 
-### **Backend Gadgets & Frameworks**  
+**Backend & Frameworks**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=f0e68c)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-1a1a2e?style=for-the-badge&logo=springsecurity&logoColor=f0e68c)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-16213e?style=for-the-badge&logo=spring&logoColor=f0e68c)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-000000?style=for-the-badge&logo=spring&logoColor=f0e68c)
 ![JWT](https://img.shields.io/badge/JWT-1a1a2e?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=f0e68c)
 
-### **Frontend Utilities**  
+**Frontend**  
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=f0e68c)
 ![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=f0e68c)
 ![CSS3](https://img.shields.io/badge/CSS3-16213e?style=for-the-badge&logo=css3&logoColor=f0e68c)
 
-### **Data Vaults**  
+**Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=f0e68c)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=f0e68c)
 ![Redis](https://img.shields.io/badge/Redis-16213e?style=for-the-badge&logo=redis&logoColor=f0e68c)
 
-### **Cloud & Deployment Tech**  
+**Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=f0e68c)
 ![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=f0e68c)
 ![Git](https://img.shields.io/badge/Git-16213e?style=for-the-badge&logo=git&logoColor=f0e68c)
 
-### **Combat Skills**  
+**Concepts**  
 `REST APIs` • `Microservices` • `OAuth 2.0` • `JWT Authentication` • `CI/CD` • `Machine Learning` • `Agile Development`
 
 ---
 
-```
-🌉 GOTHAM BRIDGE 🌉
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🏙️  ARKHAM      WAYNE        GCPD      GOTHAM      🌃
-   ASYLUM     ENTERPRISES  HEADQUARTERS  CENTRAL   
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+<div align="center">
+<img src="https://images.unsplash.com/photo-1519501025264-65ba15a82390?w=1200&h=250&fit=crop" alt="Night Cityscape" width="100%"/>
+</div>
 
-## 🌆 Missions Accomplished
+## 💼 Projects
 
-### 🎓 **Education App - Operation: Gotham Youth Initiative**
+### 🎓 **Education App**
 **Tech Stack:** React.js, Spring Boot, Spring Data JPA, MySQL, Spring Security, JWT, OAuth
 
 - Built an education-focused platform for rural students
 - Designed secure authentication and user management with JWT & Spring Security
 - Optimized backend with Spring Data JPA for efficient database operations
-- 🦇 **Mission Status:** Protecting the future of Gotham's youth
 
-### 🛒 **E-commerce Website with Generative AI - Project: Wayne Enterprises Commerce**
+### 🛒 **E-commerce Website with Generative AI**
 **Tech Stack:** ReactJS, Spring Boot, Redis (Vector DB), Spring Security, Spring AI
 
 - Developed an AI-driven e-commerce system with chatbot assistance and image generation
 - Implemented secure user authentication and authorization
 - Integrated Redis Vector Database for storing embeddings and AI search
-- 🦇 **Mission Status:** Bringing innovation to Gotham's marketplace
 
 ---
 
-## 🎯 Current Training Regime
+<div align="center">
+<img src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200&h=200&fit=crop" alt="Dark Sky" width="100%"/>
+</div>
 
-```
-⚔️ BATCAVE TRAINING SIMULATOR ⚔️
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+## 🎯 Current Focus
 
 - 🔨 Building production-ready Spring Boot applications
 - 🤖 Exploring Generative AI and LLM integrations
@@ -163,22 +126,13 @@ const shravan = {
 - 🐳 Containerization with Docker
 - 📖 Studying Microservices Architecture
 
-```
-Progress: ████████████████░░░░ 80%
-Next Level: Master Developer 🏆
-```
-
 ---
 
-## 📡 Commissioner Gordon's Hotline
+<div align="center">
+<img src="https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?w=1200&h=250&fit=crop" alt="Urban Night" width="100%"/>
+</div>
 
-```
-┌─────────────────────────────────────┐
-│  🚨 BAT-SIGNAL ACTIVATED 🚨         │
-│  Seeking Internship Opportunities   │
-│  Backend | Full-Stack | AI/ML       │
-└─────────────────────────────────────┘
-```
+## 📫 Let's Connect
 
 I'm actively seeking **internship opportunities** in backend development, full-stack roles, or AI/ML projects.
 
@@ -186,22 +140,12 @@ I'm actively seeking **internship opportunities** in backend development, full-s
 💼 **LinkedIn:** [linkedin.com/in/shravan-parthe-00946b2ab](https://www.linkedin.com/in/shravan-parthe-00946b2ab/)  
 🐙 **GitHub:** [github.com/Shravan157](https://github.com/Shravan157)  
 
-> *"Why do we fall? So we can learn to pick ourselves up... and deploy better code."*
+> *"It's not who I am underneath, but what I do that defines me."*
 
 ---
 
 <div align="center">
 
-### ⚡ "In the darkest code, I find the brightest solutions" ⚡
-
-```
-    🌃                           🌃
-  🏢🏢🏢    GOTHAM NEEDS YOU    🏢🏢🏢
-    🌃      Join the Mission      🌃
-```
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=120&section=footer" width="100%"/>
-
-**"The night is always darkest before the dawn... and the deploy."** 🦇
 
 </div>
