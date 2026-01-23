@@ -35,7 +35,7 @@ const shravan = {
         "Cloud-Native Applications"
     ],
     
-    allies: ["Alfred (Copilot)", "Oracle (Stack Overflow)", "Robin (Junior Devs)"],
+    allies: ["Alfred (GitHub Copilot)", "Oracle (Claude AI)", "Lucius Fox (VS Code)"],
     motto: "It's not who I am underneath, but what I do that defines me",
     status: "Seeking Internship Opportunities"
 };
@@ -164,7 +164,7 @@ I'm actively seeking **internship opportunities** in backend development, full-s
 💼 **LinkedIn:** [linkedin.com/in/shravan-parthe-00946b2ab](https://www.linkedin.com/in/shravan-parthe-00946b2ab/)  
 🐙 **GitHub:** [github.com/Shravan157](https://github.com/Shravan157)  
 
-> *"Why do we fall? So we can learn to pick ourselves up... and deploy better code."*
+> *"Why do we fall? So we can learn to pick ourselves up and code better."*
 
 ---
 
@@ -180,6 +180,6 @@ I'm actively seeking **internship opportunities** in backend development, full-s
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=120&section=footer" width="100%"/>
 
-**"The night is always darkest before the dawn... and the deploy."** 🦇
+**"The night is always darkest before the dawn... and the breakthrough."** 🦇
 
 </div>
