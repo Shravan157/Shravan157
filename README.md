@@ -25,7 +25,7 @@
 const shravan = {
     alias: "Vengeance",
     education: "TE CSE (AIML)",
-    location: "Earth",
+    location: "Gotham City",
     graduation: "June 2027",
     
     focus: [
