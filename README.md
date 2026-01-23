@@ -46,7 +46,7 @@ const shravan = {
 🚀 Building secure, scalable systems with modern frameworks  
 🤖 Integrating **Generative AI** into web applications  
 
-> *"It's not who I am underneath, but what I do that defines me."*
+> *"The night is always darkest before the dawn... and the breakthrough."*
 
 ---
 
@@ -180,6 +180,7 @@ I'm actively seeking **internship opportunities** in backend development, full-s
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=120&section=footer" width="100%"/>
 
-**"The night is always darkest before the dawn... and the breakthrough."** 🦇
+**"It's not who I am underneath, but what I do that defines me."** 🦇
+
 
 </div>
