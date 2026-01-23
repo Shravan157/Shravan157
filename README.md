@@ -1,11 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Shravan%20Parthe&fontSize=60&fontColor=f0e68c&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Shravan%20Parthe&fontSize=60&fontColor=f0e68c&animation=fadeIn&fontAlignY=38&desc=The%20Dark%20Code%20Knight&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1200&h=300&fit=crop" alt="Gotham Cityscape" width="100%"/>
-
-<h3>Computer Engineering Student | Java & Spring Boot Developer</h3>
-<h4>Building Scalable Backend Systems & AI-Powered Applications</h4>
+<h3>🦇 Computer Engineering Student | Java & Spring Boot Developer 🦇</h3>
+<h4>⚡ Building Scalable Backend Systems & AI-Powered Applications ⚡</h4>
 
 <br>
 
@@ -21,14 +19,11 @@
 
 ---
 
-<div align="center">
-<img src="https://images.unsplash.com/photo-1514565131-fce0801e5785?w=800&h=200&fit=crop" alt="Dark City Streets" width="100%"/>
-</div>
-
-## 👨‍💻 About Me
+## 🌃 About The Dark Knight Developer
 
 ```javascript
 const shravan = {
+    alias: "The Dark Code Knight",
     education: "TE CSE (AIML)",
     location: "Earth",
     graduation: "June 2027",
@@ -40,7 +35,7 @@ const shravan = {
         "Cloud-Native Applications"
     ],
     
-    philosophy: "I am vengeance, I am innovation",
+    motto: "It's not who I am underneath, but what I do that defines me",
     status: "Seeking Internship Opportunities"
 };
 ```
@@ -50,51 +45,43 @@ const shravan = {
 🚀 Building secure, scalable systems with modern frameworks  
 🤖 Integrating **Generative AI** into web applications  
 
-> *"The night is darkest just before the dawn. And I promise you, the dawn is coming."*
+> *"It's not who I am underneath, but what I do that defines me."*
 
 ---
 
-<div align="center">
-<img src="https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=1200&h=250&fit=crop" alt="City Lights" width="100%"/>
-</div>
+## 🛠️ The Batcave Arsenal
 
-## 🛠️ Technical Skills
-
-**Languages**  
+### **Primary Weapons**  
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=f0e68c)
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=f0e68c)
 ![JavaScript](https://img.shields.io/badge/JavaScript-16213e?style=for-the-badge&logo=javascript&logoColor=f0e68c)
 
-**Backend & Frameworks**  
+### **Backend Gadgets & Frameworks**  
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=f0e68c)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-1a1a2e?style=for-the-badge&logo=springsecurity&logoColor=f0e68c)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-16213e?style=for-the-badge&logo=spring&logoColor=f0e68c)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-000000?style=for-the-badge&logo=spring&logoColor=f0e68c)
 ![JWT](https://img.shields.io/badge/JWT-1a1a2e?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=f0e68c)
 
-**Frontend**  
+### **Frontend Utilities**  
 ![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=f0e68c)
 ![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=f0e68c)
 ![CSS3](https://img.shields.io/badge/CSS3-16213e?style=for-the-badge&logo=css3&logoColor=f0e68c)
 
-**Databases**  
+### **Data Vaults**  
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=f0e68c)
 ![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=f0e68c)
 ![Redis](https://img.shields.io/badge/Redis-16213e?style=for-the-badge&logo=redis&logoColor=f0e68c)
 
-**Cloud & DevOps**  
+### **Cloud & Deployment Tech**  
 ![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=f0e68c)
 ![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=f0e68c)
 ![Git](https://img.shields.io/badge/Git-16213e?style=for-the-badge&logo=git&logoColor=f0e68c)
 
-**Concepts**  
+### **Combat Skills**  
 `REST APIs` • `Microservices` • `OAuth 2.0` • `JWT Authentication` • `CI/CD` • `Machine Learning` • `Agile Development`
 
 ---
-
-<div align="center">
-<img src="https://images.unsplash.com/photo-1519501025264-65ba15a82390?w=1200&h=250&fit=crop" alt="Night Cityscape" width="100%"/>
-</div>
 
 ## 💼 Projects
 
@@ -114,10 +101,6 @@ const shravan = {
 
 ---
 
-<div align="center">
-<img src="https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1200&h=200&fit=crop" alt="Dark Sky" width="100%"/>
-</div>
-
 ## 🎯 Current Focus
 
 - 🔨 Building production-ready Spring Boot applications
@@ -128,10 +111,6 @@ const shravan = {
 
 ---
 
-<div align="center">
-<img src="https://images.unsplash.com/photo-1516455590571-18256e5bb9ff?w=1200&h=250&fit=crop" alt="Urban Night" width="100%"/>
-</div>
-
 ## 📫 Let's Connect
 
 I'm actively seeking **internship opportunities** in backend development, full-stack roles, or AI/ML projects.
@@ -140,11 +119,13 @@ I'm actively seeking **internship opportunities** in backend development, full-s
 💼 **LinkedIn:** [linkedin.com/in/shravan-parthe-00946b2ab](https://www.linkedin.com/in/shravan-parthe-00946b2ab/)  
 🐙 **GitHub:** [github.com/Shravan157](https://github.com/Shravan157)  
 
-> *"It's not who I am underneath, but what I do that defines me."*
+> *"Why do we fall? So we can learn to pick ourselves up... and deploy better code."*
 
 ---
 
 <div align="center">
+
+### ⚡ "In the darkest code, I find the brightest solutions" ⚡
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=120&section=footer" width="100%"/>
 
