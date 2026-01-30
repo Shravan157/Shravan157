@@ -1,10 +1,11 @@
 # Shravan Parthe
-
 **Computer Engineering Student | Backend Developer | AI Enthusiast**
 
 Building scalable backend systems and AI-powered applications with modern technologies.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravan-parthe-00946b2ab/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shravanparthe@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shravan157)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravan-parthe-00946b2ab/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shravanparthe@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shravan157)
 
 ---
 
@@ -12,7 +13,7 @@ Building scalable backend systems and AI-powered applications with modern techno
 
 Third-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, graduating in June 2027. Passionate about creating robust, scalable backend systems and integrating cutting-edge AI technologies into practical applications.
 
-My expertise lies in building enterprise-grade applications using Java and Spring Boot ecosystem, with a strong focus on RESTful API design and microservices architecture. I am committed to writing clean, maintainable code and following industry best practices in software development.
+My expertise spans across **enterprise Java development** with the Spring Boot ecosystem and **Python-based data science and machine learning**, combining backend engineering excellence with advanced data manipulation and analysis capabilities. I specialize in building RESTful APIs, implementing microservices architecture, and developing data-driven AI solutions.
 
 Currently seeking internship opportunities to apply my technical skills in real-world projects and contribute to innovative solutions.
 
@@ -20,7 +21,7 @@ Currently seeking internship opportunities to apply my technical skills in real-
 
 ## Technical Skills
 
-### Languages
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -31,6 +32,19 @@ Currently seeking internship opportunities to apply my technical skills in real-
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white)
 ![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white)
+
+### Python & Data Science Stack
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+**Python Expertise:**
+- Deep understanding of Python core concepts and advanced features
+- Proficient in NumPy for numerical computing and array operations
+- Expert-level Pandas for data manipulation, analysis, and transformation
+- Data preprocessing, cleaning, and feature engineering
+- Statistical analysis and exploratory data analysis (EDA)
+- Integration of Python ML models with production systems
 
 ### Frontend Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -51,8 +65,9 @@ Currently seeking internship opportunities to apply my technical skills in real-
 - RESTful API Development
 - Microservices Architecture
 - OAuth 2.0 & JWT Authentication
+- Data Analysis & Manipulation (NumPy, Pandas)
+- Machine Learning Model Integration
 - CI/CD Pipeline Implementation
-- Machine Learning Integration
 - Agile Methodologies
 
 ---
@@ -75,7 +90,7 @@ A comprehensive educational platform designed to bridge the digital divide for s
 ---
 
 ### AI-Powered E-Commerce Platform
-**Technologies:** React.js • Spring Boot • Redis Vector DB • Spring Security • Spring AI
+**Technologies:** React.js • Spring Boot • Redis Vector DB • Spring Security • Spring AI • Python • NumPy • Pandas
 
 An intelligent e-commerce solution featuring AI-driven product recommendations and customer support.
 
@@ -85,26 +100,28 @@ An intelligent e-commerce solution featuring AI-driven product recommendations a
 - Vector database implementation with Redis for semantic search
 - Secure user management and authentication
 - Real-time product recommendations using machine learning
+- Data preprocessing and analysis pipeline using Pandas and NumPy
 
-**Innovation:** Leveraging generative AI to enhance the shopping experience
+**Innovation:** Leveraging generative AI and data science to enhance the shopping experience
 
 ---
 
 ## Professional Development
 
 ### Current Learning Path
-
 - Advanced Spring Boot application development
 - Generative AI and Large Language Model integration
+- Advanced data analysis techniques with NumPy and Pandas
+- Machine Learning model deployment and MLOps
 - AWS Cloud services and deployment strategies
 - Container orchestration with Docker and Kubernetes
 - Microservices design patterns and best practices
 
 ### Areas of Interest
-
 - Distributed Systems
 - Cloud-Native Applications
 - AI/ML in Production
+- Data Engineering & Analytics
 - System Design and Architecture
 - DevOps and Site Reliability Engineering
 
@@ -117,12 +134,14 @@ An intelligent e-commerce solution featuring AI-driven product recommendations a
 - Implemented secure authentication systems using industry standards
 - Developed scalable RESTful APIs serving multiple clients
 - Integrated AI capabilities into full-stack applications
+- Performed advanced data analysis and manipulation using Python ecosystem
 
 **Problem-Solving:**
 - Resolved complex production bugs through systematic debugging
 - Optimized application performance using caching strategies
 - Implemented comprehensive error handling and logging
 - Ensured data security through encryption and access controls
+- Processed and analyzed large datasets for actionable insights
 
 ---
 
@@ -135,12 +154,15 @@ I am actively seeking **internship opportunities** where I can contribute to mea
 - Full-Stack Developer
 - Software Engineering Intern
 - AI/ML Developer
+- Data Engineer
 
 **What I Bring:**
 - Strong foundation in Java and Spring Boot ecosystem
+- Deep Python expertise with NumPy and Pandas for data analysis
 - Experience with modern web development practices
 - Enthusiasm for learning and adapting to new technologies
 - Collaborative mindset and problem-solving skills
+- Ability to bridge backend development with data science
 
 ---
 
