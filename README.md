@@ -1,186 +1,170 @@
-<div align="center">
+# Shravan Parthe
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=Shravan%20Parthe&fontSize=60&fontColor=f0e68c&animation=fadeIn&fontAlignY=38&desc=Vengeance%20Through%20Code&descAlignY=55&descSize=20" width="100%"/>
+**Computer Engineering Student | Backend Developer | AI Enthusiast**
 
-<h3>🦇 Computer Engineering Student | Java & Spring Boot Developer 🦇</h3>
-<h4>⚡ Building Scalable Backend Systems & AI-Powered Applications ⚡</h4>
+Building scalable backend systems and AI-powered applications with modern technologies.
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=f0e68c)](https://www.linkedin.com/in/shravan-parthe-00946b2ab/)
-[![Email](https://img.shields.io/badge/Email-1a1a2e?style=for-the-badge&logo=gmail&logoColor=f0e68c)](mailto:shravanparthe@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=f0e68c)](https://github.com/Shravan157)
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F0E68C&center=true&vCenter=true&width=600&lines=I+am+Vengeance" alt="Typing SVG" />
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravan-parthe-00946b2ab/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shravanparthe@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shravan157)
 
 ---
 
-## 🌃 About Me
+## About Me
 
 ```javascript
-const shravan = {
-    alias: "Vengeance",
-    education: "TE CSE (AIML)",
-    location: "Gotham City",
-    graduation: "June 2027",
-    
-    focus: [
-        "Backend Development with Spring Boot",
-        "RESTful API Design & Microservices",
-        "Generative AI Integration",
-        "Cloud-Native Applications"
-    ],
-    
-    allies: ["Alfred (GitHub Copilot)", "Oracle (Claude AI)", "Lucius Fox (VS Code)"],
-    motto: "It's not who I am underneath, but what I do that defines me",
-    status: "Seeking Internship Opportunities"
+const developer = {
+  name: "Shravan Parthe",
+  education: "B.Tech in Computer Science Engineering (AI & ML)",
+  graduation: "June 2027",
+  location: "Nagpur, Maharashtra, India",
+  specialization: [
+    "Backend Development",
+    "RESTful API Design",
+    "Microservices Architecture",
+    "AI Integration"
+  ],
+  currentFocus: "Building enterprise-grade applications with Spring Boot",
+  status: "Open to Internship Opportunities"
 };
 ```
 
-🎓 Computer Science Engineering student specializing in **AI & ML**  
-💼 Focused on **Java, Spring Boot, and Backend Development**  
-🚀 Building secure, scalable systems with modern frameworks  
-🤖 Integrating **Generative AI** into web applications  
-
-> *"The night is always darkest before the dawn... and the breakthrough."*
+Third-year Computer Science Engineering student with a specialization in Artificial Intelligence and Machine Learning. Passionate about creating robust, scalable backend systems and integrating cutting-edge AI technologies into practical applications.
 
 ---
 
-## 🃏 Defeated Challenges
+## Technical Skills
 
-### 🤡 **The Chaos - Production Bugs**
-*Challenge:* Random bugs causing system instability  
-*Solution:* Implemented comprehensive testing & error handling  
-*Status:* ✅ **NEUTRALIZED**
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### 🐱 **The Shadow - Data Security**
-*Challenge:* Protecting sensitive user information  
-*Solution:* JWT Authentication & Spring Security implementation  
-*Status:* ✅ **SECURED**
+### Backend Development
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white)
+![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=flat&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white)
 
-### ❄️ **The Freeze - Performance Issues**
-*Challenge:* System slowdowns during peak traffic  
-*Solution:* Redis caching & optimization techniques  
-*Status:* ✅ **OPTIMIZED**
+### Frontend Technologies
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-### 🎭 **The Duality - API Inconsistency**
-*Challenge:* Unreliable API responses  
-*Solution:* RESTful standards & proper error handling  
-*Status:* ✅ **STABILIZED**
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
----
+### DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## 🛠️ The Arsenal
-
-### **Primary Weapons**  
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=f0e68c)
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=f0e68c)
-![JavaScript](https://img.shields.io/badge/JavaScript-16213e?style=for-the-badge&logo=javascript&logoColor=f0e68c)
-
-### **Backend Framework Arsenal**  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=spring-boot&logoColor=f0e68c)
-![Spring Security](https://img.shields.io/badge/Spring_Security-1a1a2e?style=for-the-badge&logo=springsecurity&logoColor=f0e68c)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-16213e?style=for-the-badge&logo=spring&logoColor=f0e68c)
-![Spring AI](https://img.shields.io/badge/Spring_AI-000000?style=for-the-badge&logo=spring&logoColor=f0e68c)
-![JWT](https://img.shields.io/badge/JWT-1a1a2e?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=f0e68c)
-
-### **Frontend Tools**  
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=f0e68c)
-![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=for-the-badge&logo=html5&logoColor=f0e68c)
-![CSS3](https://img.shields.io/badge/CSS3-16213e?style=for-the-badge&logo=css3&logoColor=f0e68c)
-
-### **Data Vaults**  
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=f0e68c)
-![MongoDB](https://img.shields.io/badge/MongoDB-1a1a2e?style=for-the-badge&logo=mongodb&logoColor=f0e68c)
-![Redis](https://img.shields.io/badge/Redis-16213e?style=for-the-badge&logo=redis&logoColor=f0e68c)
-
-### **Cloud & Deployment**  
-![AWS](https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazon-aws&logoColor=f0e68c)
-![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=f0e68c)
-![Git](https://img.shields.io/badge/Git-16213e?style=for-the-badge&logo=git&logoColor=f0e68c)
-
-### **Combat Skills**  
-`REST APIs` • `Microservices` • `OAuth 2.0` • `JWT Authentication` • `CI/CD` • `Machine Learning` • `Agile Development`
+### Core Competencies
+- RESTful API Development
+- Microservices Architecture
+- OAuth 2.0 & JWT Authentication
+- CI/CD Pipeline Implementation
+- Machine Learning Integration
+- Agile Methodologies
 
 ---
 
-## 🌆 Missions Accomplished
+## Featured Projects
 
-### 🎓 **Operation: Rural Education Initiative**
-**Tech Stack:** React.js, Spring Boot, Spring Data JPA, MySQL, Spring Security, JWT, OAuth
+### Rural Education Initiative Platform
+**Technologies:** React.js • Spring Boot • Spring Data JPA • MySQL • Spring Security • JWT • OAuth
 
-- Built an education-focused platform for rural students
-- Designed secure authentication and user management with JWT & Spring Security
-- Optimized backend with Spring Data JPA for efficient database operations
-- 🦇 **Mission Status:** Empowering the next generation through technology
+A comprehensive educational platform designed to bridge the digital divide for students in rural areas.
 
-### 🛒 **Project: AI-Powered Commerce Platform**
-**Tech Stack:** ReactJS, Spring Boot, Redis (Vector DB), Spring Security, Spring AI
+**Key Features:**
+- Secure authentication and authorization using JWT and OAuth 2.0
+- Role-based access control with Spring Security
+- Optimized database operations with Spring Data JPA
+- Responsive user interface built with React.js
 
-- Developed an AI-driven e-commerce system with chatbot assistance and image generation
-- Implemented secure user authentication and authorization
-- Integrated Redis Vector Database for storing embeddings and AI search
-- 🦇 **Mission Status:** Revolutionizing digital commerce with AI
+**Impact:** Providing accessible education resources to underserved communities
 
 ---
 
-## 🎯 Current Training & Development
+### AI-Powered E-Commerce Platform
+**Technologies:** React.js • Spring Boot • Redis Vector DB • Spring Security • Spring AI
 
-```
-⚔️ ACTIVE TRAINING PROTOCOLS ⚔️
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+An intelligent e-commerce solution featuring AI-driven product recommendations and customer support.
 
-- 🔨 Building production-ready Spring Boot applications
-- 🤖 Exploring Generative AI and LLM integrations
-- ☁️ Learning AWS Cloud services and deployment
-- 🐳 Containerization with Docker
-- 📖 Studying Microservices Architecture
+**Key Features:**
+- Integrated AI chatbot for customer assistance
+- AI-powered image generation for product visualization
+- Vector database implementation with Redis for semantic search
+- Secure user management and authentication
+- Real-time product recommendations using machine learning
 
-```
-Progress: ████████████████░░░░ 80%
-Status: Advancing to Master Level 🏆
-```
+**Innovation:** Leveraging generative AI to enhance the shopping experience
 
 ---
 
-## 📡 The Signal
+## Professional Development
 
-```
-┌─────────────────────────────────────┐
-│  🚨 SIGNAL ACTIVATED 🚨             │
-│  Seeking Internship Opportunities   │
-│  Backend | Full-Stack | AI/ML       │
-└─────────────────────────────────────┘
-```
+### Current Learning Path
 
-I'm actively seeking **internship opportunities** in backend development, full-stack roles, or AI/ML projects.
+- Advanced Spring Boot application development
+- Generative AI and Large Language Model integration
+- AWS Cloud services and deployment strategies
+- Container orchestration with Docker and Kubernetes
+- Microservices design patterns and best practices
 
-📧 **Email:** shravanparthe@gmail.com  
+### Areas of Interest
+
+- Distributed Systems
+- Cloud-Native Applications
+- AI/ML in Production
+- System Design and Architecture
+- DevOps and Site Reliability Engineering
+
+---
+
+## Achievements & Certifications
+
+**Technical Expertise:**
+- Built production-ready applications with Spring Boot
+- Implemented secure authentication systems using industry standards
+- Developed scalable RESTful APIs serving multiple clients
+- Integrated AI capabilities into full-stack applications
+
+**Problem-Solving:**
+- Resolved complex production bugs through systematic debugging
+- Optimized application performance using caching strategies
+- Implemented comprehensive error handling and logging
+- Ensured data security through encryption and access controls
+
+---
+
+## Open to Opportunities
+
+I am actively seeking **internship opportunities** where I can contribute to meaningful projects and grow as a developer.
+
+**Preferred Roles:**
+- Backend Developer
+- Full-Stack Developer
+- Software Engineering Intern
+- AI/ML Developer
+
+**What I Bring:**
+- Strong foundation in Java and Spring Boot ecosystem
+- Experience with modern web development practices
+- Enthusiasm for learning and adapting to new technologies
+- Collaborative mindset and problem-solving skills
+
+---
+
+## Let's Connect
+
+📧 **Email:** [shravanparthe@gmail.com](mailto:shravanparthe@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/shravan-parthe-00946b2ab](https://www.linkedin.com/in/shravan-parthe-00946b2ab/)  
-🐙 **GitHub:** [github.com/Shravan157](https://github.com/Shravan157)  
-
-> *"Why do we fall? So we can learn to pick ourselves up and code better."*
+🔗 **GitHub:** [github.com/Shravan157](https://github.com/Shravan157)
 
 ---
 
-<div align="center">
+### 💡 "Continuous learning and growth define the journey of a developer."
 
-### ⚡ "In the darkest code, I find the brightest solutions" ⚡
-
-```
-    🌃                           🌃
-      The Night Protects Code      
-    🌃      Join the Mission      🌃
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=120&section=footer" width="100%"/>
-
-**"It's not who I am underneath, but what I do that defines me."** 🦇
-
-
-</div>
+*Last Updated: January 2026*
