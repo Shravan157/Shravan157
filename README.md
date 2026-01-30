@@ -10,24 +10,11 @@ Building scalable backend systems and AI-powered applications with modern techno
 
 ## About Me
 
-```javascript
-const developer = {
-  name: "Shravan Parthe",
-  education: "B.Tech in Computer Science Engineering (AI & ML)",
-  graduation: "June 2027",
-  location: "Nagpur, Maharashtra, India",
-  specialization: [
-    "Backend Development",
-    "RESTful API Design",
-    "Microservices Architecture",
-    "AI Integration"
-  ],
-  currentFocus: "Building enterprise-grade applications with Spring Boot",
-  status: "Open to Internship Opportunities"
-};
-```
+Third-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, graduating in June 2027. Passionate about creating robust, scalable backend systems and integrating cutting-edge AI technologies into practical applications.
 
-Third-year Computer Science Engineering student with a specialization in Artificial Intelligence and Machine Learning. Passionate about creating robust, scalable backend systems and integrating cutting-edge AI technologies into practical applications.
+My expertise lies in building enterprise-grade applications using Java and Spring Boot ecosystem, with a strong focus on RESTful API design and microservices architecture. I am committed to writing clean, maintainable code and following industry best practices in software development.
+
+Currently seeking internship opportunities to apply my technical skills in real-world projects and contribute to innovative solutions.
 
 ---
 
