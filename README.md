@@ -174,6 +174,6 @@ I am actively seeking **internship opportunities** where I can contribute to mea
 
 ---
 
-### 💡 "Continuous learning and growth define the journey of a developer."
+### 💡 "AIML aur FullStack ke bich me chutiya banake choda hai bhai"
 
 *Last Updated: January 2026*
