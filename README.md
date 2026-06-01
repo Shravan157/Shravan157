@@ -6,7 +6,105 @@ Building scalable backend systems and AI-powered applications with modern techno
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shravan-parthe-00946b2ab/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shravanparthe@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shravan157)
+# Shravan Parthe — Projects Overview
 
+Computer Engineering student | Backend Developer | AI & Data Enthusiast  
+
+---
+
+## Quick Intro
+
+I build scalable backend systems and AI-powered applications using Java (Spring Boot), Python (data science & ML), and modern web/mobile stacks. Below are concise summaries of my public repositories grouped by theme.
+
+---
+
+## Repositories (summary)
+
+- **Flutter_demo** — Dart  
+  Link: https://github.com/Shravan157/Flutter_demo  
+  Short: Mobile app demos and experiments built with Flutter.
+
+- **java** — Java  
+  Link: https://github.com/Shravan157/java  
+  Short: Java projects and examples; useful for backend, algorithm practice, and core Java experiments.
+
+- **MedX-AI-Clinical-Assistant** — Python  
+  Link: https://github.com/Shravan157/MedX-AI-Clinical-Assistant  
+  Short: AI platform for medical assistance and diagnosis. Focuses on NLP/ML models and clinical workflows.
+
+- **phonepe-insights** — Jupyter Notebook  
+  Link: https://github.com/Shravan157/phonepe-insights  
+  Short: Data analysis project (notebooks) exploring PhonePe dataset insights and visualizations.
+
+- **portfolio-website** — Python (Streamlit)  
+  Link: https://github.com/Shravan157/portfolio-website  
+  Short: My professional portfolio built with Streamlit — showcases projects and contact info.
+
+- **Real-Estate-Investment-Advisor** — Python  
+  Link: https://github.com/Shravan157/Real-Estate-Investment-Advisor  
+  Short: ML-backed advisor for real estate investment decisions and analysis.
+
+- **Sahay-Loan** — Jupyter Notebook  
+  Link: https://github.com/Shravan157/Sahay-Loan  
+  Short: Notebook project related to loan analytics / prediction (credit/loan use case).
+
+- **Shravan157** — (this profile repository)  
+  Link: https://github.com/Shravan157/Shravan157  
+  Short: GitHub profile configs and this README.
+
+- **SikshaSetu_Edu_App** — JavaScript  
+  Link: https://github.com/Shravan157/SikshaSetu_Edu_App  
+  Short: Education application for unified education and academic management (frontend/web app).
+
+- **tourism_project** — Jupyter Notebook  
+  Link: https://github.com/Shravan157/tourism_project  
+  Short: Data analysis / modelling project related to tourism datasets and insights.
+
+- **Zomato-Restaurant-Review-Sentiment-Analysis** — Jupyter Notebook  
+  Link: https://github.com/Shravan157/Zomato-Restaurant-Review-Sentiment-Analysis  
+  Short: Sentiment analysis pipeline for Zomato restaurant reviews using NLP techniques.
+
+---
+
+## Featured Projects (short highlights)
+
+- MedX-AI-Clinical-Assistant — AI in healthcare: clinical assistance and diagnostic support using Python ML/NLP pipelines. Great for showcasing model integration and domain-specific engineering.
+- Real-Estate-Investment-Advisor — End-to-end data pipeline and model-backed recommendations for investment decisions.
+- portfolio-website — Streamlit-based portfolio showcasing projects; an easy entry for recruiters to view live demos.
+- SikshaSetu_Edu_App — Full-stack education app demonstrating product thinking and web/mobile development.
+
+---
+
+## Tech & Tools (across repositories)
+- Languages: Java, Python, JavaScript, Dart
+- Backend: Spring Boot (Java), REST API patterns
+- AI/ML: Python, NumPy, Pandas, scikit-learn, Jupyter notebooks
+- Datastores & infra: MySQL, MongoDB, Redis
+- DevOps & tooling: Docker, basic AWS deployment experience
+- Frontend/Mobile: React, Streamlit, Flutter
+
+---
+
+## How to explore these projects
+1. Visit the repo link(s) above.
+2. For notebooks: open / run locally with Jupyter or view on GitHub (recommend using Binder/Colab if available).
+3. For Streamlit or web demos: check run instructions in the repo README (start with `portfolio-website`).
+4. For Java backend projects: import into your IDE (IntelliJ/Eclipse), build with Maven/Gradle and run.
+
+---
+
+## Contact & Next steps
+- Email: shravanparthe@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/shravan-parthe-00946b2ab/  
+
+If you'd like, I can:
+- Commit this README to your profile repo (Shravan157/README.md).
+- Expand any project section with badges, screenshots, and usage instructions.
+- Create individual project pages or a table-of-contents for easier navigation.
+
+---
+
+Thanks — tell me which next step you want (commit this README, expand a specific project, or change the tone/format).
 ---
 
 ## About Me
@@ -174,6 +272,3 @@ I am actively seeking **internship opportunities** where I can contribute to mea
 
 ---
 
-### 💡 "AIML aur FullStack ke bich me chutiya banake choda hai bhai"
-
-*Last Updated: January 2026*
