@@ -97,14 +97,7 @@ I build scalable backend systems and AI-powered applications using Java (Spring 
 - Email: shravanparthe@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/shravan-parthe-00946b2ab/  
 
-If you'd like, I can:
-- Commit this README to your profile repo (Shravan157/README.md).
-- Expand any project section with badges, screenshots, and usage instructions.
-- Create individual project pages or a table-of-contents for easier navigation.
 
----
-
-Thanks — tell me which next step you want (commit this README, expand a specific project, or change the tone/format).
 ---
 
 ## About Me
